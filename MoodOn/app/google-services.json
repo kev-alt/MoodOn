@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037567208131",
+    "firebase_url": "https://moodon-2eb15-default-rtdb.firebaseio.com",
+    "project_id": "moodon-2eb15",
+    "storage_bucket": "moodon-2eb15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037567208131:android:714b9e1f272c4a50621076",
+        "android_client_info": {
+          "package_name": "com.example.moodon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037567208131-lkfcrslb455n4jecgkt15adq04rtnus4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moodon",
+            "certificate_hash": "1211689d5788265b813e396cfaf328de0fc6219e"
+          }
+        },
+        {
+          "client_id": "1037567208131-0t7abt605oshrl362ko793ran3qs7h2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAECSY3C50bNdOwCJ6xUbZYi5vDc5H1PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037567208131-0t7abt605oshrl362ko793ran3qs7h2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
